@@ -18,3 +18,7 @@ Key config:
 - keyZ:  L90
 - keyC:  Keep
 - arrowUp:  HardDrop
+
+# NOTE
+
+If you like the repo please star :) 
