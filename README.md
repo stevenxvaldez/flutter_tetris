@@ -21,4 +21,4 @@ Key config:
 
 # NOTE
 
-If you like the repo please star :) 
+If you like the repo please star :)  
